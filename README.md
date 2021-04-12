@@ -1,1 +1,2 @@
-# algorithm
+# wiki
+- algorithm
